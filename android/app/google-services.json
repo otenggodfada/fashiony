@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420767806874",
+    "project_id": "fashiony-689e8",
+    "storage_bucket": "fashiony-689e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420767806874:android:57f9116ff2eb6210c57623",
+        "android_client_info": {
+          "package_name": "com.example.fashiony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420767806874-1aj8rb9dle83rqf1feb77qa751fnhhak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkNNXvoKM7XhaqBhUAyUm7IcyTAm9k_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420767806874-1aj8rb9dle83rqf1feb77qa751fnhhak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
